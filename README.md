@@ -8,7 +8,6 @@ This project is a File Management System designed to efficiently manage and orga
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributions](#contributions)
 
 ## Key Features
 
